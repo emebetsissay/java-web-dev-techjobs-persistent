@@ -43,6 +43,7 @@ public class JobData {
         }
 
         return results;
+
     }
 
     public static String getFieldValue(Job job, String fieldName){
